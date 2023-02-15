@@ -1,0 +1,8 @@
+General information
+Weather application used for identifying the weather for any place in the world. You may use the search bar and then a five day forecast appears with the weather. 
+ 
+Data and file overview
+The index.html contains the skeleton of the application and bootstrap. 
+CSS handles the styling. 
+JavaScript handles all the interactivity. 
+ 
