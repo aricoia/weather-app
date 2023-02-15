@@ -1,0 +1,21 @@
+
+* {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.card {
+  background-color: rgba(100, 148, 237, 0.35);
+  height: 500px;
+  width: 500px;
+
+}
+
+header {
+  background-color: rgba(100, 148, 237, 0.4);
+  height:50px;
+}
+
+.col-9 {
+  background-color: rgba(100, 148, 237, 0.397);
+}
+
